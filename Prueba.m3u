@@ -1,1 +1,3 @@
-
+1#EXTM3U
+#EXTINF:-1 tvg-id="la 1 hd" tvg-name="" group-title="ES | GENERAL" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png",ES: LA 1
+http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5622.ts
