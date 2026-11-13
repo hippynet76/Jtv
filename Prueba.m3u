@@ -10,8 +10,10 @@ http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5555.ts
 http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5588.ts
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" tvg-id="Telecinco HD",TELECINCO
 http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5734.ts
-#EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" tvg-id="La Sexta HD",LA SEXTA http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5625.ts
-#EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Septima.png" tvg-id="La Septima",LA SEPTIMA http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/4064.ts
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" tvg-id="La Sexta HD",LA SEXTA
+http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5625.ts
+#EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" tvg-id="La 2",LA 2
+http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/5623.ts
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" tvg-id="Movistar Plus HD",MOVISTAR PLUS+
 http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/57285.ts
 #EXTINF:-1 group-title="MOVISTAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" tvg-id="M+ Vamos HD",M+ VAMOS (FHD)
@@ -806,6 +808,3 @@ http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/74004.ts
 http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/74005.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="XXX-VIP [ 18+ ]" tvg-logo="https://docdog.top/logo/countries/xxx/adult.png",XXX:  TINY 4K UHD
 http://ac9.ofbtrpt.top:8080/live/991789050569/eca3fab9ba32/74006.ts
-
-
-
